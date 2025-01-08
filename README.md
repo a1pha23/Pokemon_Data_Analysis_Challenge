@@ -78,6 +78,3 @@ The dataset used for this project can be downloaded from the following link:
 ---
 
 Feel free to replace this dataset with your own for a more customized experience.
-
-
-https://terabox.com/s/1jmehUd_Bulcc_VW8hJCI5Q
